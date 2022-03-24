@@ -81,12 +81,15 @@ var shirts = [{
     "price": "$6.99",
     "colors": {
         "white": {
-            "front": "shirt_images/bsuir-white-front.png",
-            "back": "shirt_images/bsuir-white-back.png"
+            "back": "shirt_images/bsuir-white-front.png",
+            "front": "shirt_images/bsuir-white-back.png"
         }
     },
     "default": {
         "front": "shirt_images/default-m-front.png",
         "back": "shirt_images/default-m-back.png"
     }
-}];
+}
+
+
+];
