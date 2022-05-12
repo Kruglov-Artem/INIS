@@ -1,2 +1,2 @@
-Солтан МВ 910903
-https://boring-borg-677512.netlify.app
+Круглов Артём Александрович
+https://willowy-meringue-7e2226.netlify.app
